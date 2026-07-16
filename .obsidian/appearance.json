@@ -1,1 +1,10 @@
-{}
+{
+  "accentColor": "#f24a85",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Pretendard",
+  "textFontFamily": "Pretendard",
+  "monospaceFontFamily": "Pretendard",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "nativeMenus": true
+}

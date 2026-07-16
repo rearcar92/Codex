@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "_assets",
+  "attachmentFolderPath": "etc/_assets",
   "newFileLocation": "folder",
   "newFileFolderPath": "00_inbox",
   "showLineNumber": false,
